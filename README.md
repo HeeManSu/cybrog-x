@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hey! 🐲
 
-<!--
-**cybrog-x/cybrog-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspirational Mern developer with boundless drive!
 
-Here are some ideas to get you started:
+![zuko](https://user-images.githubusercontent.com/56875618/206171786-ab937031-08c7-41ea-b097-682ee3439731.gif)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+building frontend with react.js and backend with express.js.
+learning next.js and typescript currently.  
+curiosity drives me, creativity pours into my work.  
+
+
+
+worked and familiar with  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,tailwind,redux,materialui,ts,nodejs,nextjs,vscode,styledcomponents,git,mongodb,firebase,vite&perline=8&theme=dark)](https://skillicons.dev)  
+
+**Looking for frontend or full stack internships in any early-stage startup to learn and create an impact with my role!** 🤝
